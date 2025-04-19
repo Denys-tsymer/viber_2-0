@@ -1,0 +1,3 @@
+Mecklenburg_VorpommernCity1 — Місто1 — 1001, 1002, 1003
+Mecklenburg_VorpommernCity2 — Місто2 — 1002, 1003, 1004
+Mecklenburg_VorpommernCity3 — Місто3 — 1003, 1004, 1005

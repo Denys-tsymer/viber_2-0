@@ -1,0 +1,3 @@
+Kujawsko_PomorskieCity1 — Місто1 — 1001, 1002, 1003
+Kujawsko_PomorskieCity2 — Місто2 — 1002, 1003, 1004
+Kujawsko_PomorskieCity3 — Місто3 — 1003, 1004, 1005

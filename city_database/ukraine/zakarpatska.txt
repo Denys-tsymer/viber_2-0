@@ -1,0 +1,3 @@
+ZakarpatskaCity1 — Місто1 — 1001, 1002, 1003
+ZakarpatskaCity2 — Місто2 — 1002, 1003, 1004
+ZakarpatskaCity3 — Місто3 — 1003, 1004, 1005

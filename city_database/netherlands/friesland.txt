@@ -1,0 +1,3 @@
+FrieslandCity1 — Місто1 — 1001, 1002, 1003
+FrieslandCity2 — Місто2 — 1002, 1003, 1004
+FrieslandCity3 — Місто3 — 1003, 1004, 1005

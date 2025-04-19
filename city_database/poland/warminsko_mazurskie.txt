@@ -1,0 +1,3 @@
+Warminsko_MazurskieCity1 — Місто1 — 1001, 1002, 1003
+Warminsko_MazurskieCity2 — Місто2 — 1002, 1003, 1004
+Warminsko_MazurskieCity3 — Місто3 — 1003, 1004, 1005
